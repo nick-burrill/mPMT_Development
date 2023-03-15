@@ -9,3 +9,5 @@
 **Aditional Notes:** The crossing vent channels were not machinable but easy to manually add to the foam after. When 3d printing, the .stl file with cross channels was used.
 
 In the current state of the .f3d file, the last four steps can be undone to supress the cross channels.
+
+<iframe src="//sharecad.org/cadframe/load?url=https://www.cadsofttools.com/dwgviewer/hostel_block.dwg" scrolling="no"> </iframe>
